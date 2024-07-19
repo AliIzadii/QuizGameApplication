@@ -4,7 +4,7 @@ This is a Flutter-based quiz game application that challenges users with multipl
 
 ## Features
 
-- **Transaction Management**: Users can add transactions by entering the title, amount, payment type (expense or income), and specifying the date.
+- **Dynamic Questions**: The questions are updated daily, ensuring a fresh experience for users each day.
   
 - **Time-limited Answers**: Users have 15 seconds to answer each question. If time runs out, it's counted as an incorrect answer.
 
